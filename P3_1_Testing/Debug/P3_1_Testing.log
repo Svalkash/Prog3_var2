@@ -1,0 +1,14 @@
+﻿Сборка начата 04.10.2018 0:42:07.
+     1>Проект "D:\SVALKASH_FILES\Programs\VS2013\Prog3_var2\P3_1_Testing\P3_1_Testing.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\SVALKASH_FILES\Programs\VS2013\Prog3_var2\googletest\include /ID:\SVALKASH_FILES\Programs\VS2013\Prog3_var2\googletest /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\P3_1_Testing.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt P3_1_Testing.cpp
+         P3_1_Testing.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SVALKASH_FILES\Programs\VS2013\Prog3_var2\Debug\P3_1_Testing.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\SVALKASH_FILES\Programs\VS2013\Prog3_var2\Debug P3_1_Library.lib gtest.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\SVALKASH_FILES\Programs\VS2013\Prog3_var2\Debug\P3_1_Testing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\SVALKASH_FILES\Programs\VS2013\Prog3_var2\Debug\P3_1_Testing.lib" /MACHINE:X86 Debug\P3_1_Testing.obj
+         Debug\stdafx.obj
+         P3_1_Testing.vcxproj -> D:\SVALKASH_FILES\Programs\VS2013\Prog3_var2\Debug\P3_1_Testing.exe
+     1>Сборка проекта "D:\SVALKASH_FILES\Programs\VS2013\Prog3_var2\P3_1_Testing\P3_1_Testing.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.07
