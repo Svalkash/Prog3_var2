@@ -1,0 +1,17 @@
+﻿Сборка начата 04.10.2018 0:01:47.
+     1>Проект "D:\SVALKASH_FILES\Programs\VS2013\Prog3_var2\gtest_project\gtest_project.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (gtest_project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\googletest\src\gtest-all.cc" ..\googletest\src\gtest_main.cc
+         gtest_main.cc
+         gtest-all.cc
+         Создание кода...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\SVALKASH_FILES\Programs\VS2013\Prog3_var2\Debug\gtest.lib" /NOLOGO "Debug\gtest-all.obj"
+         Debug\gtest_main.obj
+         gtest_project.vcxproj -> D:\SVALKASH_FILES\Programs\VS2013\Prog3_var2\Debug\gtest.lib
+     1>Сборка проекта "D:\SVALKASH_FILES\Programs\VS2013\Prog3_var2\gtest_project\gtest_project.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.77
